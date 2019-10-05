@@ -30,3 +30,5 @@
  predictOneVsAll.m - Predict using a one-vs-all multi-class classiﬁer 
  
  predict.m - Neural network prediction function
+
+refer the repo machine-learning-ex4 for the implementation of backpropagation algorithm applied to the task of hand-written digit recognition.
